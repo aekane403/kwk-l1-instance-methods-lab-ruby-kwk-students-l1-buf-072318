@@ -5,6 +5,6 @@ class Dog
   def initialize
 end
 def bark
-  "Woof!"
+ puts "Woof!"
 end
 end
